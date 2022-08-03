@@ -8,9 +8,5 @@ Based on the analysis, it was inferred that there is a strong positive correlati
 | Jupyter Notebook  | [Link to Notebook](https://github.com/awojidetola/Youtube-Analysis/blob/main/Exploratory%20Analysis.ipynb) |
 | Data Source | [Kaggle](https://www.kaggle.com/datasets/syedjaferk/top-200-youtubers-cleaned)|
 | Report | [Link to Report](https://github.com/awojidetola/Youtube-Analysis/raw/main/Report.pdf)|
-| Dashboard | [Link to Dashboard Presentation]()
-
-
-The link to the Interactive Dashboard can be found [here](https://public.tableau.com/app/profile/margaret.awojide/viz/Top200YoutubersDashboard/Dashboard1)
-
-![Dashboard 1](https://user-images.githubusercontent.com/49078266/182654380-d30f7dc0-22ed-4b7f-bba5-1b8aa02b1869.png)
+| Dashboard | [Link to Dashboard Presentation](https://github.com/awojidetola/Youtube-Analysis/raw/main/Dashboard%20Presentation.pptx)|
+| Interactive Dashboard | [Tableau Public](https://public.tableau.com/app/profile/margaret.awojide/viz/Top200YoutubersDashboard/Dashboard1)|
